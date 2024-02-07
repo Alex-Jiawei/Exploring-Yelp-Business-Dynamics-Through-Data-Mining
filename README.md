@@ -1,4 +1,4 @@
-# Exploring-Yelp-Business-Dynamics-Through-Data-Mining
+# Exploring Yelp Business Dynamics Through Data Mining
 University of Chicago - Data Mining Principles Final Project
 
 #### Business Problem
